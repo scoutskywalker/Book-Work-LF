@@ -1,0 +1,27 @@
+main p {
+  font-weight: bolder;
+}
+
+ol~p {
+  color: teal;
+}
+
+ol>li {
+  color: coral;
+  line-height: 1.4em;
+  font-weight: bold;
+}
+
+footer, h1 {
+  color:darkslategrey;
+}
+
+a[href] {
+  color: seagreen;
+  font-weight: 900;
+}
+
+li.programmer {
+  color:darkorchid;
+  font-variant: small-caps;
+}
